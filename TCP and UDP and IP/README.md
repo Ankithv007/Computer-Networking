@@ -117,4 +117,5 @@ A **port** is like a **specific room** or **department** within that house:
 Together, **IP addresses**, **ports**, and **transport protocols (TCP/UDP)** allow devices to communicate efficiently over the Internet, enabling everything from web browsing and email to video streaming and online gaming.
 
 ---
+![UDP Header](https://static.wixstatic.com/media/c173bb_0b8d26799e6f4bdfbb4ad0aeb5160908~mv2.jpg)
 
