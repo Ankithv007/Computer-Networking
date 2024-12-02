@@ -65,7 +65,10 @@ The OSI (Open Systems Interconnection) model is a conceptual framework used to u
    - **Media**:
      - Application protocols (e.g., web browsers, email clients)
      - User interface (UI) applications
+![osi_works](https://blogger.googleusercontent.com/img/a/AVvXsEioZYlWq-K164pSdFMElRH0iUl8iy7XJkneDA3Ax_a9twEBQ8ELGHYhy-L39fpB3Rz8tnTjzRkyztCuvfFO2tZUN7PZH8rcz2knErosbt7Bj0mnhcRjsP2_yz_dOxge26yJa13S1-hsE3i-2M6y0GwhqDB_hl3z2jie6NCUYEibeRQpLjkS0BIBmmmxXBgS=w640-h565-rw)
+- [explanation of osi model](https://www.thenetworkdna.com/2024/03/cybersecurity-osi-model-cyberattacks-at.html)
 
+![osi](https://infosectrain.com/wp-content/uploads/2024/04/OSI-Model-Layers-1.jpg)
 
 ## Summary
 
