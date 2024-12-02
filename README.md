@@ -19,6 +19,13 @@
 - how vpn works 
 - real-life analogy 
 
+## TCP AND UDP ADD IP
+- IP AND PORTS (IPv4 and IPv6)
+- TCP
+- UDP
+- Overview of TCP, UDP, IP, and Port(readme.md)
+![UDP Header](https://static.wixstatic.com/media/c173bb_0b8d26799e6f4bdfbb4ad0aeb5160908~mv2.jpg)
 
-
-
+## IPv4 and IPv6
+- IPv4 there class and inforamtion
+- IPv6 there class and information
